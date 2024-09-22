@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__/
+.DS_Store
+wandb/
+outputs/
+data/
+*.pyc
+setup.sh
+experiments/
+get_evals_single.sh
